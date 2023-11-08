@@ -88,7 +88,7 @@ body {
   background-color: blanchedalmond;
 }
 #response {
-  margin: 0 0 0.25em 0;
+  margin: 0 0 0.175em 0;
   padding: 1rem;
   font-size: 25vw;
   line-height: 1em;
@@ -100,3 +100,5 @@ body {
 You can deploy three static sites for free to DigitalOceans App Platform.
 
 https://www.digitalocean.com/community/tutorials/how-to-deploy-a-static-site-from-github-with-digitalocean-app-platform-quickstart
+
+https://www.digitalocean.com/landing/use-cases
