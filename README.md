@@ -95,7 +95,8 @@ body {
 }
 ```
 
-### Step 5: Deploy to DigitalOcean App Platform
+### Step 5: Deploy for FREE to DigitalOcean App Platform
 
-Further reading:
+You can deploy three static sites for free to DigitalOceans App Platform.
+
 https://www.digitalocean.com/community/tutorials/how-to-deploy-a-static-site-from-github-with-digitalocean-app-platform-quickstart
