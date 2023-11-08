@@ -17,7 +17,7 @@ The initial step was to create a basic HTML file with a structure that includes 
       name="viewport"
       content="width=device-width, initial-scale=1.0"
     />
-    <title>Are You Hungry or Bored?</title>
+    <title>Are You Hungry or Just Bored?</title>
     <style>
       /* CSS will be added here */
     </style>
@@ -95,9 +95,7 @@ body {
 }
 ```
 
-### Step 5: Deploy for FREE to DigitalOcean App Platform
-
-You can deploy three static sites for free to DigitalOceans App Platform.
+### Step 5: Deploy to DigitalOcean App Platform
 
 https://www.digitalocean.com/community/tutorials/how-to-deploy-a-static-site-from-github-with-digitalocean-app-platform-quickstart
 
