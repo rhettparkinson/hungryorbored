@@ -72,7 +72,7 @@ Added JavaScript within the HTML file to randomly select and display one of the 
 </script>
 ```
 
-### Step 4: A little CSS
+### Step 4: A Little CSS
 
 Added [The New CSS Reset](https://github.com/elad2412/the-new-css-reset) by elad2412 as well as the following:
 
@@ -97,4 +97,5 @@ body {
 
 ### Step 5: Deploy to DigitalOcean App Platform
 
-Further reading: https://www.digitalocean.com/community/tutorials/how-to-deploy-a-static-site-from-github-with-digitalocean-app-platform-quickstart
+Further reading:
+https://www.digitalocean.com/community/tutorials/how-to-deploy-a-static-site-from-github-with-digitalocean-app-platform-quickstart
